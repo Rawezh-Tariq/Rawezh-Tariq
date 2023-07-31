@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rawezh-Tariq
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Flutter & Dart
+- 📫 How to reach me rawezht.abubakr@gmail.com
